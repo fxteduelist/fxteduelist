@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm fxteduelist
+## 16yr old | Python & ML | Turning ideas into polished projects
 
-<!--
-**fxteduelist/fxteduelist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+- [A.P Calculator](https://github.com/fxteduelist/A.Pcalculator_FxteV1.PY)
+- [Physics Solver](W.I.P)
+- [Python Calculator](https://github.com/fxteduelist/BasicCalculator_Fxte)
 
-Here are some ideas to get you started:
+### Skills
+- Python | Artificial intelligence | ML basics | Git | Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+- Instagram: [@playonrepeat._](https://instagram.com/playonrepeat._)
+- Discord: fxteduelist.
