@@ -12,7 +12,9 @@
 ---
 
 ### 💻 Skills
-Python | Artificial intelligence | Git | ML Basics | Problem Solving | Lua
+- **Languages**: Python, Lua, HTML, Css
+- **Technologies**: Machine Learning (basics), Git
+- **Interests**: Problem Solving, Algorithm Design
 
 ---
 
