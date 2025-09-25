@@ -3,7 +3,7 @@
 
 ### Projects
 - [A.P Calculator](https://github.com/fxteduelist/A.Pcalculator_FxteV1.PY)
-- [Physics Solver](W.I.P)
+- [Physics Tutor W.I.P](W.I.P)
 - [Python Calculator](https://github.com/fxteduelist/BasicCalculator_Fxte)
 
 ### Skills
